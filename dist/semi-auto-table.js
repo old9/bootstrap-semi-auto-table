@@ -1,6 +1,6 @@
 +function ($) {
   'use strict';
-
+console.log('sssss')
   // http://jqueryvalidation.org/jQuery.validator.format/
   var format = function (source, params) {
     if (arguments.length === 1) {
